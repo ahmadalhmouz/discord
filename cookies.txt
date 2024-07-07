@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+discord.com	TRUE	/	FALSE	1999999999	__dcfduid	fe8248f03c3111efae00593eebe90930
+discord.com	TRUE	/	FALSE	1999999999	__sdcfduid	fe8248f13c3111efae00593eebe90930fa5a74fe3f8d8e7c76461cf020961ece8f58d561cf5ddfee1afe1773df264c25
+.discord.com	TRUE	/	FALSE	1999999999	__cfruid	f4943582ad1efd845b3c481c079be6891353dfa0-1720337248
+.discord.com	TRUE	/	FALSE	1999999999	_cfuvid	Km8JnARzim8W94tHtDnLf38K10bfTyuXa_yDGkWZJXw-1720337248269-0.0.1.1-604800000
+discord.com	TRUE	/	FALSE	1999999999	SameSite	None
+
